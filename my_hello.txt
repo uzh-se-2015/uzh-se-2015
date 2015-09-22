@@ -1,3 +1,7 @@
 hi everyone
 
+<<<<<<< HEAD
 my contribution!
+=======
+better code
+>>>>>>> origin/master
