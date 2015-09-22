@@ -2,4 +2,8 @@ hi this is first line
 
 actually, i wanted to write this
 
+<<<<<<< HEAD
 my_feature
+=======
+my change
+>>>>>>> test2
