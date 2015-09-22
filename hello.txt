@@ -6,9 +6,10 @@ my feature
 my change
 my test
 
-<<<<<<< HEAD
-my other change!
-!
-=======
+
 new feature is here!
->>>>>>> feature1
+
+my other change!
+
+
+some change
