@@ -6,3 +6,4 @@ my feature
 my change
 my test
 
+new feature is here!
