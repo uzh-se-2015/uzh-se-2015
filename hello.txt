@@ -2,8 +2,7 @@ hi this is first line
 
 actually, i wanted to write this
 
-<<<<<<< HEAD
-my_feature
-=======
+my feature
 my change
->>>>>>> test2
+my test
+
